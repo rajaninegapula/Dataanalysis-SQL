@@ -1,9 +1,10 @@
 # Dataanalysis-SQL
 SQL Data Analysis project for Project Rockbuster
-**Introduction**
+
+Introduction
 Rockbuster Stealth LLC is a traditional movie rental company facing stiff competition from streaming services like Netflix and Amazon Prime. To adapt, the company plans to launch an online video rental service. As a data analyst in the business intelligence (BI) department, my role is to support the launch strategy by analyzing Rockbuster’s historical data to answer key business questions. This includes understanding the customer base, identifying revenue drivers, and assessing geographical trends.
 
-**Key Objectives**
+Key Objectives
 The Rockbuster management board has posed several strategic questions, such as:
 
 Which movies generate the most or least revenue?
